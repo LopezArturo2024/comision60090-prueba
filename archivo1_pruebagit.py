@@ -1,5 +1,11 @@
 def saludando():
     print("Hola estoy saludandote para probar en Git")
+    
+
+def pasado():
+    print("Me encuentro en el pasado")
+
+pasado()
 
 
 def sumar():
