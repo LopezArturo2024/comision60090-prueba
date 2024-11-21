@@ -7,3 +7,5 @@ def sumar():
     b=int(input("Ingresa el segundo numero: "))
     suma=a+b
     return suma
+
+print("Código simple para agregar otra versión al archivo 1")
