@@ -2,6 +2,9 @@ def saludando():
     print("Hola estoy saludandote para probar en Git")
     
 
+def prueba():
+    print("Soy una prueba de merge al medio a ver como hace los cambios")
+    
 def pasado():
     print("Me encuentro en el pasado")
 
